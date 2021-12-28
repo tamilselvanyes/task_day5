@@ -120,3 +120,14 @@ var number_of_time = 4; //This will be input for eg choosen 4
         }
         console.log("Rotated array  " + array_9);
     })();
+
+
+// Output:
+//  odd numbers are 1 3 5
+//  Caps letters are A B C D E F
+//  sum of the array 45
+//  prime number: 2,3,5,7
+//  Palindrome words are   malayalam,madam
+//  median value is   7.5
+//  Non duplicate Array 1,2,3,4,5,6,7,8,11
+//  Rotated array  6,7,8,9,1,2,3,4,5

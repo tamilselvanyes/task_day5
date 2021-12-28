@@ -124,3 +124,13 @@ var getRoatedArray = function (a){
         return a;
     }
 console.log("Rotated array" + getRoatedArray(array_9));
+
+// Output:
+//  odd numbers are1 3 5
+//  Caps letters are A B C D E F
+//  sum of the array 45
+//  prime number: 2,3,5,7
+//  Palindrome words are   malayalam,madam
+//  median value is   7.5
+//  Non duplicate Array 1,2,3,4,5,6,7,8,11
+//  Rotated array6,7,8,9,1,2,3,4,5

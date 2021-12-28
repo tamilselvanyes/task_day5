@@ -76,3 +76,9 @@ var Palindrome_Array = (a) => {
 }
 console.log("Palindrome words are   "+ Palindrome_Array(array_5));
 
+// Output:
+// odd numbers are1 3 5
+// Caps letters are A B C D E F
+// sum of the array 45
+// prime number: 2,3,5,7
+// Palindrome words are   malayalam,madam
